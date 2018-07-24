@@ -24,4 +24,4 @@
             <include layout="@layout/suggestion"/>
         </LinearLayout>
     </ScrollView>
-</FrameLayout> 
+</FrameLayout>
